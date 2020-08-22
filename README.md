@@ -3,3 +3,4 @@
 ##### ANN is the first implementation and it work very fine.
 ##### CNN model does not perform very well however now I'll use Transfer Learning Technique to know how we can do better on this project (inshaAllah) 
 ##### In CNN add dataset as data->dogs-vs-cats->train->images
+##### VGG16 for dog-vs-cat classification using Transfer Learning Technique to overcome overfitting issue of CNN
