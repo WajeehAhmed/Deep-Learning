@@ -1,0 +1,6 @@
+#use : pip install -r requirements.txt
+numpy
+matplotlib
+sklearn
+tensorflow
+keras
