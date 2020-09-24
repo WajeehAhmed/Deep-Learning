@@ -39,3 +39,11 @@ use : pip install -r requirements.txt
 ![image](https://user-images.githubusercontent.com/63501850/94128948-9cfcd000-fe0f-11ea-9150-61873c191b8d.png)
 ### Confusion Metrix
 ![image](https://user-images.githubusercontent.com/63501850/94129023-b1d96380-fe0f-11ea-8ecb-f6f5eb3707e0.png)
+## MobileNet
+This module is the implementation of Transfer Learning Technique of MobileNet
+### Installation
+use : pip install -r requirements.txt
+### Result
+![image](https://user-images.githubusercontent.com/63501850/94131486-d6830a80-fe12-11ea-9a7b-5b362322dc05.png)
+
+
