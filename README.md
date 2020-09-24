@@ -27,4 +27,15 @@ Data : https://www.kaggle.com/c/dogs-vs-cats/data (Kaggle Competition)<br />
 use : pip install -r requirements.txt
 ### Confusion Metrix
 ![image](https://user-images.githubusercontent.com/63501850/94127676-0bd92980-fe0e-11ea-8497-cb451225a101.png)
-
+<br />
+## CNN (MNIST)
+This module is the implementation of CNN for MNIST (Classification)<br />
+Data : http://yann.lecun.com/exdb/mnist/ <br />
+### Installation
+use : pip install -r requirements.txt
+### Train Batch Representation
+![image](https://user-images.githubusercontent.com/63501850/94128842-7a6ab700-fe0f-11ea-9310-7ed01d8a9da2.png)
+### Model Training Epochs
+![image](https://user-images.githubusercontent.com/63501850/94128948-9cfcd000-fe0f-11ea-9150-61873c191b8d.png)
+### Confusion Metrix
+![image](https://user-images.githubusercontent.com/63501850/94129023-b1d96380-fe0f-11ea-8ecb-f6f5eb3707e0.png)
