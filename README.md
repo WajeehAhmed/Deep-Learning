@@ -31,8 +31,6 @@ use : pip install -r requirements.txt
 ## CNN (MNIST)
 This module is the implementation of CNN for MNIST (Classification)<br />
 Data : http://yann.lecun.com/exdb/mnist/ <br />
-### Dataset
-![image](https://user-images.githubusercontent.com/63501850/94133019-f287ab80-fe14-11ea-9c5a-44aec78fbc51.png)
 ### Installation
 use : pip install -r requirements.txt
 ### Train Batch Representation
@@ -51,6 +49,8 @@ use : pip install -r requirements.txt
 ## MobileNet (Sign Language Classification)
 This module is the implementation of Transfer Learning Technique of MobileNet for Sign Language Classification<br />
 Dataset : https://github.com/ardamavi/Sign-Language-Digits-Dataset <br />
+### Dataset
+![image](https://user-images.githubusercontent.com/63501850/94133019-f287ab80-fe14-11ea-9c5a-44aec78fbc51.png)
 ### Installation
 use : pip install -r requirements.txt
 ### Model Training
