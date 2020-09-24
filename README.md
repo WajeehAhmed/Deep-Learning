@@ -45,5 +45,15 @@ This module is the implementation of Transfer Learning Technique of MobileNet
 use : pip install -r requirements.txt
 ### Result
 ![image](https://user-images.githubusercontent.com/63501850/94131486-d6830a80-fe12-11ea-9a7b-5b362322dc05.png)
+<br />
+## MobileNet (Sign Language Classification)
+This module is the implementation of Transfer Learning Technique of MobileNet for Sign Language Classification<br />
+Dataset : https://github.com/ardamavi/Sign-Language-Digits-Dataset <br />
+### Installation
+use : pip install -r requirements.txt
+### Model Training
+![image](https://user-images.githubusercontent.com/63501850/94132809-ac324c80-fe14-11ea-9f17-066b52c200d0.png)
+### Confusion Metrix
+![image](https://user-images.githubusercontent.com/63501850/94132782-a2104e00-fe14-11ea-8611-b0fe74f46809.png)
 
 
