@@ -6,10 +6,25 @@ Data : Pseudo data is created for this trail
 ### Installation
 use : pip install -r requirements.txt
 ### Confusion Metrix
+![image](https://user-images.githubusercontent.com/63501850/94125714-91a7a580-fe0b-11ea-8255-2717176c1e05.png)
 
-#### CNN model does not perform very well however now I'll use Transfer Learning Technique to know how we can do better on this project (inshaAllah) 
-##### In CNN add dataset as data->dogs-vs-cats->train->images
-##### VGG16 for dog-vs-cat classification using Transfer Learning Technique to overcome overfitting issue of CNN
-##### MobileNet Transfer Learning Technique implemented ,predicting on existing classes in the upcoming repo will fine tune and predict on custom dataset(inshaAllah)
-##### MobileNet Transfer Learning Technique implemented ,predicting Sign Digit Language 
-##### MobileNet Transfer Learning Dataset => data > Sign-Language-Digits-Dataset > test train valid 
+## CNN (Cats VS Dogs)
+This module is the implementation of CNN for cats vs dogs (Classification)
+Data : https://www.kaggle.com/c/dogs-vs-cats/data (Kaggle Competition)
+### Installation
+use : pip install -r requirements.txt
+### Confusion Metrix
+![image](https://user-images.githubusercontent.com/63501850/94126335-548fe300-fe0c-11ea-8bdb-225093bbeed8.png)
+### Test Batch Preprocessed
+![image](https://user-images.githubusercontent.com/63501850/94126342-59549700-fe0c-11ea-923c-c0ca65b59bdc.png)
+### Train Batch Preprocessed 
+![image](https://user-images.githubusercontent.com/63501850/94126386-640f2c00-fe0c-11ea-8da7-1d998af8e24d.png)
+The results were not very promesing so I am gonna implement this using VGG16 next<br />
+## VGG16 (Cats VS Dogs)
+This module is the implementation of CNN for cats vs dogs (Classification)
+Data : https://www.kaggle.com/c/dogs-vs-cats/data (Kaggle Competition)
+### Installation
+use : pip install -r requirements.txt
+### Confusion Metrix
+![image](https://user-images.githubusercontent.com/63501850/94127676-0bd92980-fe0e-11ea-8497-cb451225a101.png)
+
